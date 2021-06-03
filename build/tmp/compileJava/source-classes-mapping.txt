@@ -1,0 +1,18 @@
+co/com/sofka/ecommerce/test/task/OpenTheBrowser.java
+ co.com.sofka.ecommerce.test.task.OpenTheBrowser
+co/com/sofka/ecommerce/test/ui/MyAccountPage.java
+ co.com.sofka.ecommerce.test.ui.MyAccountPage
+co/com/sofka/ecommerce/test/task/SetEmail.java
+ co.com.sofka.ecommerce.test.task.SetEmail
+co/com/sofka/ecommerce/test/questions/CompletedSignUp.java
+ co.com.sofka.ecommerce.test.questions.CompletedSignUp
+co/com/sofka/ecommerce/test/ui/AuthenticationPage.java
+ co.com.sofka.ecommerce.test.ui.AuthenticationPage
+co/com/sofka/ecommerce/test/task/GoToSingInAndLoginPage.java
+ co.com.sofka.ecommerce.test.task.GoToSingInAndLoginPage
+co/com/sofka/ecommerce/test/ui/HomePage.java
+ co.com.sofka.ecommerce.test.ui.HomePage
+co/com/sofka/ecommerce/test/task/CreateAccount.java
+ co.com.sofka.ecommerce.test.task.CreateAccount
+co/com/sofka/ecommerce/test/ui/CreateAccountPage.java
+ co.com.sofka.ecommerce.test.ui.CreateAccountPage
